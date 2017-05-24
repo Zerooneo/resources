@@ -212,3 +212,4 @@ designers willing to work on Open Src projects, created by @clintonhalpin
 * [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design 
 and hardware group.
 * [PIXLS.US](https://pixls.us) Free/Open Source Photography.
+* [Photos of Design Research](https://commons.wikimedia.org/wiki/Category:Designethnography) on Wikimedia Commons
